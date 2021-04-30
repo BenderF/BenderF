@@ -35,7 +35,7 @@
 📍 **Junkercell** - Toledo/PR, Brazil
 
 
-- 👨‍💻 **IT/Administrative**\
+- 👨‍💻 **IT / Administrative**\
 📆 2014 - 2016\
 📍 **Prefeitura de Toledo** - Toledo/PR, Brazil
 
