@@ -9,6 +9,13 @@
   <a href="https://www.linkedin.com/in/benderfelipe/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+    <a>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  </a>&nbsp;&nbsp;
+      <a>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+  </a>&nbsp;&nbsp;
+  
  </p>
 
 <details>
