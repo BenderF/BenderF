@@ -29,9 +29,13 @@
 📍 **UNIPAR - Universidade Paranaesne** - Toledo/PR, Brazil
 
 ## Experience
+  
+  - 👨‍💻 **PHP Developer**\
+📆 Soon - Moment\
+📍 **Surpise!!** - Toledo/PR, Brazil
 
 - 👨‍💻 **Supot Manager / IT / Network Engineer JR**\
-📆 2021 - Moment\
+📆 2020 - 2021\
 📍 **Oesteline** - Toledo/PR, Brazil
 
 - 👨‍💻 **Cellphone Technician**\
