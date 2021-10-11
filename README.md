@@ -32,7 +32,7 @@
   
   - 👨‍💻 **PHP Developer**\
 📆 Soon - Moment\
-📍 **Surpise!!** - Toledo/PR, Brazil
+📍 **Manfing** - Toledo/PR, Brazil
 
 - 👨‍💻 **Supot Manager / IT / Network Engineer JR**\
 📆 2020 - 2021\
