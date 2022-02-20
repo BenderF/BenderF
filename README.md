@@ -34,7 +34,7 @@
 📆 2021 - Moment\
 📍 **Manfing** - Toledo/PR, Brazil
 
-- 👨‍💻 **Supot Manager / IT / Network Engineer JR**\
+- 👨‍💻 **Support Manager / IT / Network Engineer JR**\
 📆 2020 - 2021\
 📍 **Oesteline** - Toledo/PR, Brazil
 
