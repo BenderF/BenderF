@@ -4,19 +4,59 @@
   </a>&nbsp;&nbsp;
 </h1>
 
-<p align='center'>
-  Studying :books: and having way too much coffee :coffee:.
-</p>
-<p align='center'>  
+```php
+<?php
 
-    <a>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  </a>&nbsp;&nbsp;
-      <a>
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-  </a>&nbsp;&nbsp;
-  
- </p>
+namespace FelipeBender;
+
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Manfing',
+                'position' => 'Backend Developer'         
+            ]
+        ];
+    }
+
+    public function getBestSkills(): array
+    {
+        return [
+            Php::class,
+            Laravel::class,
+            GoogleCloud::class,
+            MySQL::class
+        ];
+    }
+
+    public function getSkills(): array
+    {
+        return [
+            Java::class,
+            Python::class,
+            JavaScript::class
+        ];
+    }
+
+    public function getLearningSkills(): array
+    {
+        return [
+            Node::class,
+            Typescript::class,
+            ReactNative::class,
+            NextJS::class
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'Do some code related research on academic levels';
+    }
+}
+```
+
 
 <details>
   <summary>📃 Resume</summary>
