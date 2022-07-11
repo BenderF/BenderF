@@ -1,14 +1,14 @@
 <h1 align='center'>
-  Hello, I'm Felipe Bender :boy:
+  Hello, I'm Felipe Bender :boy: <a href="https://www.linkedin.com/in/benderfelipe/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </h1>
 
 <p align='center'>
   Studying :books: and having way too much coffee :coffee:.
 </p>
 <p align='center'>  
-  <a href="https://www.linkedin.com/in/benderfelipe/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+
     <a>
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   </a>&nbsp;&nbsp;
