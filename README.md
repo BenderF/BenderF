@@ -70,8 +70,12 @@ class About extends Me
 
 ## Experience
   
-  - 👨‍💻 **PHP Developer**\
-📆 2021 - Moment\
+   - 👨‍💻 **PHP Developer(Laravel)**\
+📆 2022 - moment\
+📍 **Solluti** - Remote
+  
+  - 👨‍💻 **PHP Developer(Laravel)**\
+📆 2021 - 2022\
 📍 **Manfing** - Toledo/PR, Brazil
 
 - 👨‍💻 **Support Manager / IT / Network Engineer JR**\
