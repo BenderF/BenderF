@@ -15,7 +15,7 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'company' => 'Manfing',
+                'company' => 'Solluti',
                 'position' => 'Backend Developer'         
             ]
         ];
@@ -46,7 +46,7 @@ class About extends Me
             Node::class,
             Typescript::class,
             ReactNative::class,
-            NextJS::class
+            Kotlin::class
         ];
     }
 
